@@ -1,4 +1,4 @@
-# 🚀 RapidExpress
+# <img width="50" height="50" alt="app_icon" src="https://github.com/user-attachments/assets/e406b7e4-b815-4191-888c-018910eea9e1" /> RapidExpress
 
 A high-performance, cost-effective, and robust Flutter Map & Routing application built following strict **Clean Architecture** principles and advanced state management. 
 

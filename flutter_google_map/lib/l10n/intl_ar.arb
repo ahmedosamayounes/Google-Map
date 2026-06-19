@@ -1,0 +1,34 @@
+{
+  "getStarted": "ابدأ الآن",
+  "swiftAsThought": "سريع كـ \nالفكرة",
+  "onboardingDescription": "اختبر الجيل القادم من الخدمات اللوجستية. توصيل سريع، آمن، وبمنتهى السهولة بين يديك.",
+  "experienceSpeed": "اختبر السرعة.",
+  "joinFastestNetwork": "انضم إلى أسرع شبكة توصيل في المدينة. أدخل رقم هاتفك للبدء.",
+  "enterPhoneNumber": "يرجى إدخال رقم الهاتف",
+  "invalidPhoneNumber": "رقم الهاتف غير صالح (يجب ألا يقل عن 10 أرقام)",
+  "phoneNumber": "رقم الهاتف",
+  "byProceeding": "بالمتابعة، فإنك توافق على",
+  "termsOfService": " شروط الخدمة",
+  "and": " و",
+  "privacyPolicy": " سياسة الخصوصية",
+  "sendCode": "إرسال الرمز",
+  "otpVerification": "التحقق من رمز OTP",
+  "otpDescription": "لقد أرسلنا رمز تحقق مكوناً من 6 أرقام إلى رقم الهاتف المحمول المسجل لديك.",
+  "phoneVerifiedSuccess": "تم التحقق من رقم الهاتف بنجاح!",
+  "verify": "تحقق",
+  "enterFullCode": "يرجى إدخال الكود المكون من 6 أرقام كاملاً",
+  "noResultsFound": "لم يتم العثور على نتائج",
+  "searchLocation": "البحث عن موقع",
+  "home": "الرئيسية",
+  "settings": "الإعدادات",
+  "about": "حول التطبيق",
+  "logout": "تسجيل الخروج",
+  "routeInfo": "معلومات المسار",
+  "distance": "المسافة",
+  "expectedTime": "الوقت المتوقع",
+  "km": "كم",
+  "mins": "دقيقة"
+
+
+
+}

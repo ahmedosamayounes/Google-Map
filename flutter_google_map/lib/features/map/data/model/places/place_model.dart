@@ -1,12 +1,11 @@
-class PlaceModel {
-  final String displayName;
-  final double latitude;
-  final double longitude;
 
+import '../../../domain/entities/places/place_entity.dart';
+
+class PlaceModel extends PlaceEntity {
   PlaceModel({
-    required this.displayName,
-    required this.latitude,
-    required this.longitude,
+    required super.displayName,
+    required super.latitude,
+    required super.longitude,
   });
 
   factory PlaceModel.fromJson(Map<String, dynamic> json) {

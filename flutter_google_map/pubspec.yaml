@@ -18,6 +18,7 @@ dependencies:
     sdk: flutter
   flutter_bloc: ^9.1.1
   flutter_gap: ^1.2.0
+  flutter_localization: ^0.4.0
   flutter_map: ^8.3.0
   flutter_native_splash: ^2.4.7
   flutter_polyline_points: ^3.1.0
@@ -32,9 +33,15 @@ dependencies:
   url_launcher: ^6.3.2
 
 dev_dependencies:
+  flutter_launcher_icons: ^0.14.4
   flutter_lints: ^6.0.0
   flutter_test:
     sdk: flutter
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"
 
 flutter:
   uses-material-design: true
@@ -42,3 +49,5 @@ flutter:
   assets:
     - assets/images/
     - assets/images/svgs/
+flutter_intl:
+  enabled: true

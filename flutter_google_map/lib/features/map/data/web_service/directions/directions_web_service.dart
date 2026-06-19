@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:flutter_google_map/core/router/routes_string.dart';
+import '../../../../../core/router/routes_string.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import '../../model/directions/directions_model.dart';
 

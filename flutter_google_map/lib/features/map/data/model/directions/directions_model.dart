@@ -1,12 +1,11 @@
-class DirectionsModel {
-  final String polylineGeo;
-  final double distance;
-  final double duration;
 
+import '../../../domain/entities/directions/direction_entity.dart';
+
+class DirectionsModel extends DirectionsEntity {
   DirectionsModel({
-    required this.polylineGeo,
-    required this.distance,
-    required this.duration,
+    required super.polylineGeo,
+    required super.distance,
+    required super.duration,
   });
 
   factory DirectionsModel.fromJson(Map<String, dynamic> json) {

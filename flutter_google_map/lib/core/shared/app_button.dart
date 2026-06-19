@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import '../theming/my_colors.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+import '../theming/my_colors.dart';
 
 class AppButton extends StatelessWidget {
   const AppButton({super.key, required this.name, this.onPressed});
@@ -18,7 +19,7 @@ class AppButton extends StatelessWidget {
           Size(double.infinity, 65),
         ), // set the button to full width and a fixed height
         backgroundColor: MaterialStateProperty.all(MyColors.primaryColor),
-        shape: MaterialStateProperty.all(
+        shape: MaterialStateProperty.all( 
           RoundedRectangleBorder(borderRadius: BorderRadius.circular(16.r)),
         ),
       ),
